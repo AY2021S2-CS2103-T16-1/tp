@@ -190,7 +190,7 @@ public class EditCommand extends Command {
             return Optional.ofNullable(address);
         }
 
-        public void setRemark(Remark remark){
+        public void setRemark(Remark remark) {
             this.remark = remark;
         }
 
