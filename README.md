@@ -3,7 +3,7 @@
 ![Ui](docs/images/Ui.png)
 
 
-* **SpamEZ** is an application that helps users to manage their recipients of their information blast.
+* **SpamEZ** is an application that helps users to manage their recipients of information blast.
 * Users will primarily interact with the application through a Command Line Interface (CLI).
 * This application is optimized for users who type fast.
 * It is also furnished with a Graphical User Interface (GUI).
